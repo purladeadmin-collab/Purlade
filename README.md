@@ -6,7 +6,7 @@ Viss amatiermākslas kolektīvam vienuviet — datora programma tautas deju kole
 ## Uzstādīšana (Windows)
 
 Lejupielādē **[Purlade-instaletajs.exe](https://github.com/purladeadmin-collab/purlade/raw/main/Purlade-instaletajs.exe)** un palaid to.
-Instalētājs pats lejupielādē jaunāko Pūrlādi (šobrīd v0.9.12) un tai vajadzīgo Python, uzstāda tos mapē
+Instalētājs pats lejupielādē jaunāko Pūrlādi (šobrīd v0.9.14) un tai vajadzīgo Python, uzstāda tos mapē
 `%LOCALAPPDATA%\Pūrlāde` un uz darbvirsmas izveido saīsni „Pūrlāde”. Administratora tiesības nav vajadzīgas.
 Atinstalēšana: Iestatījumi → Programmas un līdzekļi → Pūrlāde.
 

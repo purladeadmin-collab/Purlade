@@ -1,7 +1,7 @@
 {
-  "versija": "0.9.34",
+  "versija": "0.9.36",
   "fails": "datora/purlade.zip",
-  "sha256": "472bf89d3ccb34c674ddb1dd947df91226cc25e2d8c6619f838ef39f9770e3fc",
-  "izmers": 12080051,
-  "sagatavots": "11.11.2026"
+  "sha256": "079109072b7d15806deef61f27d985e02245575d4db1f7f00192787acd24f194",
+  "izmers": 12097499,
+  "sagatavots": "15.11.2026"
 }
